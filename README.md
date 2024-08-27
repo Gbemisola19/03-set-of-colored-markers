@@ -1,16 +1,17 @@
-# FCC-CAFE-MENUE
+# Set of colored markers
 
-> One paragraph statement about the project.
+> This is about a set of colored markers.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description of the project and its features.
+Its showing how to apply colors in css.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML Elements:
+  such as div
+- CSS
+  display, backround.
 
 ## Live Demo
 
