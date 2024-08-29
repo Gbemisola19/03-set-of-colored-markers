@@ -1,4 +1,4 @@
-# Set of colored markers
+# Set Of Colored Markers
 
 > This is about a set of colored markers.
 
