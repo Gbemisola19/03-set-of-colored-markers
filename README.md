@@ -1,6 +1,6 @@
 # Set Of Colored Markers
 
-> This is about a set of colored markers.
+> This is about a set of colored markers .
 
 ![screenshot](./app_screenshot.png)
 
@@ -11,7 +11,7 @@ Its showing how to apply colors in css.
 - HTML Elements:
   such as div
 - CSS
-  display, backround.
+  display, background.
 
 ## Live Demo
 
