@@ -23,7 +23,7 @@ styling of a page with colors using CSS.
 
 ## Live Demo
 
-[Deployment link](03-set-of-colored-markers - Overview – Vercel)
+[Deployment link](https://vercel.com/gbemisola19s-projects/03-set-of-colored-markers)
 
 ### Development (Running locally)
 
