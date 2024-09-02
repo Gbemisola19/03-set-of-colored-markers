@@ -2,27 +2,35 @@
 
 > This is about a set of colored markers .
 
-![screenshot](./app_screenshot.png)
+![colored markers](app_screenshot.png)
 
-Its showing how to apply colors in css.
+styling of a page with colors using CSS.
 
 ## Built With
 
 - HTML Elements:
-  such as div
+   <div>
 - CSS
-  display, background.
+  selector {
+  background: value;
+  display: value;
+  box-shadow: value;
+  background-color: value;
+  }
+- Linters
+  https://prettier.io/
+  https://stylelint.io/
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Deployment link](03-set-of-colored-markers - Overview – Vercel)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/html-css-template.git
+git clone https://github.com/Gbemisola19/03-set-of-colored-markers.git
 
 ```
 
@@ -78,9 +86,8 @@ yarn axe
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [Gbemisola19](https://github.com/Gbemisola19)
+- Twitter: [OladipoAzeezat](https://twitter.com/OladipoAzeezat)
 
 ## 🤝 Contributing
 
