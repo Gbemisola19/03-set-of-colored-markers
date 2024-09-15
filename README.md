@@ -6,7 +6,7 @@
 ## Built With
 
 - HTML Elements:
-   `<div>`
+  - `<div>`
 - CSS
   - `background` `display`
   - `box-shadow` `background-color`
