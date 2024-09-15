@@ -1,25 +1,18 @@
 # Set Of Colored Markers
-
-> This is about a set of colored markers .
+> This is a project about basic CSS elements.
 
 ![colored markers](app_screenshot.png)
-
-styling of a page with colors using CSS.
 
 ## Built With
 
 - HTML Elements:
-   <div>
+   `<div>`
 - CSS
-  selector {
-  background: value;
-  display: value;
-  box-shadow: value;
-  background-color: value;
-  }
+  - `background` `display`
+  - `box-shadow` `background-color`
 - Linters
-  https://prettier.io/
-  https://stylelint.io/
+  - [prettier](https://prettier.io/)
+  - [Stylelint](https://stylelint.io/)
 
 ## Live Demo
 
