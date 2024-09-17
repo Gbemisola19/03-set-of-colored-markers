@@ -1,4 +1,5 @@
-# Set Of Colored Markers
+# FCC Set Of Colored Markers
+
 > This is a project about basic CSS elements.
 
 ![colored markers](app_screenshot.png)
