@@ -1,28 +1,30 @@
-# Set of colored markers
+# FCC Set Of Colored Markers
 
-> This is about a set of colored markers.
+> This is a project about basic CSS elements.
 
-![screenshot](./app_screenshot.png)
-
-Its showing how to apply colors in css.
+![colored markers](app_screenshot.png)
 
 ## Built With
 
 - HTML Elements:
-  such as div
+  - `<div>`
 - CSS
-  display, backround.
+  - `background` `display`
+  - `box-shadow` `background-color`
+- Linters
+  - [prettier](https://prettier.io/)
+  - [Stylelint](https://stylelint.io/)
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Deployment link](https://vercel.com/gbemisola19s-projects/03-set-of-colored-markers)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/html-css-template.git
+git clone https://github.com/Gbemisola19/03-set-of-colored-markers.git
 
 ```
 
@@ -78,9 +80,8 @@ yarn axe
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [Gbemisola19](https://github.com/Gbemisola19)
+- Twitter: [OladipoAzeezat](https://twitter.com/OladipoAzeezat)
 
 ## 🤝 Contributing
 
